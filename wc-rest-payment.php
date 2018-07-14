@@ -16,7 +16,7 @@
  * Plugin Name:       WC REST Payment
  * Plugin URI:        https://sk8.tech
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           1.1.0
+ * Version:           1.1.1
  * Author:            SK8Tech
  * Author URI:        https://sk8.tech
  * License:           GPL-2.0+
@@ -35,7 +35,7 @@ if (!defined('WPINC')) {
  * Start at version 1.1.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define('WC_REST_PAYMENT_VERSION', '1.1.0');
+define('WC_REST_PAYMENT_VERSION', '1.1.1');
 
 /**
  * The code that runs during plugin activation.
