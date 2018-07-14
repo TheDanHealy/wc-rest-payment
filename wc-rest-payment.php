@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       WC REST Payment
  * Plugin URI:        https://sk8.tech
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       WC REST Payment adds in the missing REST API endpoint for processing payment in WooCommerce.
  * Version:           1.1.1
  * Author:            SK8Tech
  * Author URI:        https://sk8.tech

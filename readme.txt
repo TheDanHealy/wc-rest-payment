@@ -9,7 +9,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
  
-WC REST Payment adds in the missing REST API endpoint for **process payment** in `WooCommerce`. 
+WC REST Payment adds in the missing REST API endpoint for **processing payment** in `WooCommerce`. 
  
 == Description ==
 
