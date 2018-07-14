@@ -3,7 +3,7 @@
 Update version number in /wc-rest-payment.php
 
 > * Version:           x.x.x
-> define('PLUGIN_NAME_VERSION', 'x.x.x');
+> define('WC_REST_PAYMENT_VERSION', 'x.x.x');
 
 # Git
 
